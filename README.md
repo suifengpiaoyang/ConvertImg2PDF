@@ -1,2 +1,2 @@
-# ChangeImg2PDF
+# ConvertImg2PDF
 convert img to pdf
